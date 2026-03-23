@@ -4,7 +4,7 @@ Una ex creatura che viaggiava nel cosmo
 
 ![[Screenshot 2026-02-18 210330.png]]
 
-C'è un kraken Imaginae che si è liberato dalle restrizioni (non ci è mai stato) di dipendenza della Phantasmoon e può uscire da planarcadia con noi
+C'è un kraken Imagenae che si è liberato dalle restrizioni (non ci è mai stato) di dipendenza della Phantasmoon e può uscire da planarcadia con noi
 
 ![[Screenshot 2026-02-18 210451.png]]
 
@@ -30,5 +30,5 @@ per uscire da planarcadia ha dovuto accumulare parecchia wishpower
 
 ![[image-65.png]]
 
-Sembra che visto che ora lui esiste per via di una wishpower basata su intrattenimento e pubblicità la sua forma originale di "sea demon king" di cui avevano paura tutti ai tempi sia cambiata drasticamente. Cambiando la fonte di wishpower, cambia anche "la personalità?" dell'imaginae
+Sembra che visto che ora lui esiste per via di una wishpower basata su intrattenimento e pubblicità la sua forma originale di "sea demon king" di cui avevano paura tutti ai tempi sia cambiata drasticamente. Cambiando la fonte di wishpower, cambia anche "la personalità?" dell'imagenae
 

@@ -30,7 +30,7 @@ Inoltre in quel momento ci troviamo nella stessa stanza in cui in qualche modo i
 
 Il modello in game quando li abbiamo visti però, non era in nessun modo simile a quello di altri fantasmi![[Screenshot 2026-02-26 180546.png]]
 
-che invece solitamente hanno un modello tutto loro, quindi sicuramente ryusuke non è un "Fantasma Imaginae" esattamente come gli studenti morti che vediamo durante la trama.
+che invece solitamente hanno un modello tutto loro, quindi sicuramente ryusuke non è un "Fantasma Imagenae" esattamente come gli studenti morti che vediamo durante la trama.
 
 /// anche se potrebbero non averlo fatto per non spoilerare letteralmente tutto ma non credo, c'è anche da dire che in [[academy supernatural stories]] una ragazza è arrivata in questa classe seguendo un fantasma, però himeko stessa si stupisce che non ci siano "più fantasmi" quando ci ritorna:
 ![[vlcsnap-2026-03-06-22h12m26s693.png]]
@@ -49,7 +49,7 @@ Inoltre, sembra che questo "ryusuke" nel post condiviso nel forum dei Furbo, par
 
 March nello stesso post invita a far cambiare nome a ryusuke perchè SA che non è quello reale (fidandosi di himeko), e ryusuke, lo fa.![[vlcsnap-2026-03-06-22h01m50s261.png]]
 
-Ultimo, ma non per importanza, l'attuale preside è la Seadrake, un Imaginae.
+Ultimo, ma non per importanza, l'attuale preside è la Seadrake, un Imagenae.
 
 ![[image-243.png]]
 Sempre nel post dei Furbo, Ryusuke ha come nome account originale "Ryusuke1995".
@@ -70,4 +70,4 @@ Quindi, conclusioni momentanee (4.0):
 
 Sempre in merito al 1° Punto:
 ![[image-245.png]]
-è anche vero che seguendo lo stesso ragionamento, anche himeko potrebbe essere stata ricreata tramite l'evocazione imaginae visto che ci sono sue "statue" nella scuola, non esclude assolutamente la possibilità che sia stata creata un "himeko" tramite l'imaginesis [[Imagenae 101]]
+è anche vero che seguendo lo stesso ragionamento, anche himeko potrebbe essere stata ricreata tramite l'evocazione imagenae visto che ci sono sue "statue" nella scuola, non esclude assolutamente la possibilità che sia stata creata un "himeko" tramite l'imaginesis [[Imagenae 101]]

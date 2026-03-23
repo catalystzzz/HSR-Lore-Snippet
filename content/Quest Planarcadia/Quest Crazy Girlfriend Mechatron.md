@@ -28,7 +28,7 @@ Praticamente sto tizio cambiava idea ogni giorno su come volesse che sorren si c
 
 ![[image-189.png]]
 
-Ogni sapone dura un mese, questo è il limite di creazione di [[imaginae]] non autorizzati
+Ogni sapone dura un mese, questo è il limite di creazione di [[Imagenae]] non autorizzati
 
 ![[image-190.png]]
 

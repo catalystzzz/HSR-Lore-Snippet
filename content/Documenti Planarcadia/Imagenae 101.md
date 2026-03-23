@@ -13,9 +13,9 @@ Questi core si possono formare naturalmente in ambienti ricchi di Energia o wish
 ![[image-32.png]]
 
 Graphia ha inventato e condiviso il modo per crearli artificialmente.
-Siccome serve un bel pò di wishpower per far partire un [[imagenae]] serve il permesso per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
+Siccome serve un bel pò di wishpower per far partire un [[Keywords/imagenae]] serve il permesso per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
 
-Il core una volta creato diventa un ammasso di materia condensata simile alla struttura interna di un imagenae (originale). Il motore "core" alimentato dai poteri del path della phantasmoon è quello che tiene insieme la materia. Quindi un imaginae è già un pathstrider fin dalla nascita.
+Il core una volta creato diventa un ammasso di materia condensata simile alla struttura interna di un imagenae (originale). Il motore "core" alimentato dai poteri del path della phantasmoon è quello che tiene insieme la materia. Quindi un imagenae è già un pathstrider fin dalla nascita.
 
 In qualche modo [[L'IPC]] è riuscita a bypassare i requisiti per la generazione dei core, e non si sa come. [[Visaffiti NPC]]
 ![[image-272.png]]
@@ -26,11 +26,11 @@ In qualche modo [[L'IPC]] è riuscita a bypassare i requisiti per la generazione
 
 Quindi tutti gli imagenae sono masse di materia tenute in piedi da un core e guidate dalla wishpower senza veri organi interni o scheletro, anche se questi elementi possono apparire in base al mindset dell'artista o alla percezione del pubblico.
 
-è difficile studiare un imaginae visto che la materia di cui sono fatti si dissipa velocemente dopo la morte. Alcuni han provato a vivisezionarli ma appena stacchi una parte del loro corpo sembra come se perdano "la proprietà" di materia imagenated ed è come avere un pezzo di carbone o un bicchiere d'acqua davanti.
+è difficile studiare un imagenae visto che la materia di cui sono fatti si dissipa velocemente dopo la morte. Alcuni han provato a vivisezionarli ma appena stacchi una parte del loro corpo sembra come se perdano "la proprietà" di materia imagenated ed è come avere un pezzo di carbone o un bicchiere d'acqua davanti.
 
 ![[image-34.png]]
 
-da dove viene tutta la materia che forma il corpo di un imaginae? alcuni speculano 2 teorie:
+da dove viene tutta la materia che forma il corpo di un imagenae? alcuni speculano 2 teorie:
 - Path Space Theory: la material viene presa dal path dell'elation alla nascita e ridata indietro alla morte.
 - Discrete Matter Theory: i core assimilano la materia dai dintorni
 
@@ -38,7 +38,7 @@ Altri pensano che la materia venga convertita dall'energia direttamente dalla wi
 
 ![[image-35.png]]
 
-Per creare un imaginae funzionante al 100% la wishpower dev'essere in quantità corrette ed adatta alla forma ed al design del imaginae, altrimenti il core non si forma nemmeno.
+Per creare un imagenae funzionante al 100% la wishpower dev'essere in quantità corrette ed adatta alla forma ed al design del imagenae, altrimenti il core non si forma nemmeno.
 
 Inoltre c'è un limite a quanta wishpower può sopportare un core, e viene preso come esempio il thundercoil sulla antenna centrale di planarcadia dicendo che è già al suo limite.
 

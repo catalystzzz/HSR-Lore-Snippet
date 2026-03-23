@@ -4,7 +4,7 @@ Gli imagenae erano reluttanti al cambio portato dall'IPC, ma per rimanere in vit
 
 ![[Screenshot 2026-02-18 212034.png]]
 
-[[GREAT STRANGELING]] : un [[imagenae]] che ha superato il limite dell'impossibilità e si è manifestato nella realtà
+[[GREAT STRANGELING]] : un [[Keywords/imagenae]] che ha superato il limite dell'impossibilità e si è manifestato nella realtà
 
 ![[Screenshot 2026-02-18 212059.png]]
 

@@ -1,14 +1,14 @@
-[[imaginae]]
+[[Imagenae]]
 ![[image-50.png]]
 
 
 L'intelligentsia guild crede nella "Cellular Automaton" Ipotesi.
 
-Prima che Graphia creasse gli imaginae con art of imagensis TUTTO in planarcadia guadagnava vita propria ogni volta che la phantasmoon era piena.
+Prima che Graphia creasse gli [[imagenae]] con art of imagensis TUTTO in planarcadia guadagnava vita propria ogni volta che la phantasmoon era piena.
 
 Il documento afferma che la wishpower è l'imaginary energy del path dell'elation.
 
-La luna attivava automaticamente la wishpower degli umani, che è un energia che circonda ogni sostanza, che sia discreta o aggregata, che poi fornisce modelli comportamentali e da qui nasce la triade di energia, modelli comportamentali e sostanza, così emergono macchine viventi conosciute come "strangelings" (nome originale prima che venissero chiamati imaginae)
+La luna attivava automaticamente la wishpower degli umani, che è un energia che circonda ogni sostanza, che sia discreta o aggregata, che poi fornisce modelli comportamentali e da qui nasce la triade di energia, modelli comportamentali e sostanza, così emergono macchine viventi conosciute come "strangelings" (nome originale prima che venissero chiamati imagenae)
 
 Da piante a elettrodomestici, la wishpower si raggruppa per istinto (essendo forme di vita senza abbastanza intelligenza) e si disperde raggiunto un certo valore. Tendono difatti a rimanere in fasi di vita primitive ciclando da semplicità a complessità per poi collassare di nuovo in modelli elementari.
 

@@ -13,7 +13,7 @@ L'ingresso a ciò che rimane del dipinto come parti frammentate di esso sono gli
 
 ![[image-284.png]]
 
---> Il Mondo nel dipinto non è stato abbandonato ma è diventato parte della vita quotidiana di Umani ed [[imagenae]]
+--> Il Mondo nel dipinto non è stato abbandonato ma è diventato parte della vita quotidiana di Umani ed [[Keywords/imagenae]]
 
 ![[image-285.png]]
 

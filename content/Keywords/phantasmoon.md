@@ -1,3 +1,3 @@
 [[The Great Crisis]]
-[[imagenae]]
+[[Keywords/imagenae]]
 [[Imagenae 101]]

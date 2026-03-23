@@ -1,9 +1,9 @@
-[[imaginae]] [[imagenesis]] [[Graphia Academy]]
+[[Imagenae]] [[imagenesis]] [[Graphia Academy]]
 
 ![[image-286.png]]
 
 Appunti di lezione durante la classe di Imagenesis:
-- Gli Imaginae vengono forgiati dal substrato di Wishpower:
+- Gli Imagenae vengono forgiati dal substrato di Wishpower:
 In natura delle "Nebula" di wishpower si frammentano in numeri random di entità ognuna con diversi livelli di energia.
 Mentre, quando canalizzata da un artista, a prescindere dalla quantità verrà completamente "distillata" in una sola entità. La forma viene dettata dal design e lo stato mentale dell'artista al momento della creazione.
 
@@ -24,10 +24,10 @@ Più è stabile il design in questa fase e pià a lungo l'imagenae può mantener
 
 ![[image-289.png]]
 
-- Shaping: disegnare/dipingere/creare l'arte d'origine dell'imaginae
-Questo stage determina il comportamento dell'imaginae e la prima impressione che faranno agli altri. Ci sono diverse "tecniche":
+- Shaping: disegnare/dipingere/creare l'arte d'origine dell'imagenae
+Questo stage determina il comportamento dell'imagenae e la prima impressione che faranno agli altri. Ci sono diverse "tecniche":
 
-- Classiche: metodi come dipinti ad olio o stile ad inchiostro dello xianzhou. Gli Imaginae creati così sono più "simili agli umani" e possono "avere una mentalità propria", anche se tendono ad essere più testardi, come gli Orch o i Lightpaw.
+- Classiche: metodi come dipinti ad olio o stile ad inchiostro dello xianzhou. Gli Imagenae creati così sono più "simili agli umani" e possono "avere una mentalità propria", anche se tendono ad essere più testardi, come gli Orch o i Lightpaw.
 - Moderne: Arte astratta o concettuale o digitale. Sono più adatte per creare Imagenae con utilità pratica, come la classe stessa in cui stanno studiando, cacciaviti e così via. 
 Per l'arte digitale però, c'è bisogno di fare lo Spirit Imbuement.
 

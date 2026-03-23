@@ -1,4 +1,4 @@
-[[imagenae]]
+[[Keywords/imagenae]]
 
 ![[image-102.png]]
 

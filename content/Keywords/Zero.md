@@ -17,7 +17,7 @@ Sembra che adesso sia Prigioniera dell'IPC
 
 ![[image-315.png]]
 
-è possibile che [[Pearl]] abbia "USATO" per "creare" gli Imaginae dell [[L'IPC]] l'[[aether cartridge]] di ZERO?
+è possibile che [[Pearl]] abbia "USATO" per "creare" gli Imagenae dell [[L'IPC]] l'[[aether cartridge]] di ZERO?
 
 ![[image-317.png]]
 

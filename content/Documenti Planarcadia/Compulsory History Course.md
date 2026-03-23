@@ -7,7 +7,7 @@ Gli escapist che sono riusciti a salvarsi dall'invasione dell'antimatter legion 
 
 facendo tornare gli abitanti di planarcadia sotto la protezione di Aha e Qlipoth.
 
-Inoltre, gli hacker di puncklorde hanno sfruttato le nuove conoscenze sugli imaginae per far nascere nuove tecnologie come gli aether spirits.
+Inoltre, gli hacker di puncklorde hanno sfruttato le nuove conoscenze sugli imagenae per far nascere nuove tecnologie come gli aether spirits.
 
 ![[image-56.png]]
 
@@ -19,7 +19,7 @@ Se SUCCEDE QUALCOSA agli asset dell'ipc durante i phantasmoon games la responsab
 
 ![[image-57.png]]
 
-L'IPC ha esteso i diritti degli umani agli imaginae essendo questi esseri senzienti ed essendo planarcadia integrata nel pan cosmic marketplace.
+L'IPC ha esteso i diritti degli umani agli imagenae essendo questi esseri senzienti ed essendo planarcadia integrata nel pan cosmic marketplace.
 
 Avendo planarcadia attenzione anche da pianeti esterni, è nata una nuova forma unica di wishpower che ha permesso ad elementi come i mechatron di nascere.
 
@@ -27,6 +27,6 @@ Avendo planarcadia attenzione anche da pianeti esterni, è nata una nuova forma 
 
 
 [[Punklorde]]
-[[imagenae]]
+[[Keywords/imagenae]]
 [[phantasmoon games]]
 [[Graphia]]

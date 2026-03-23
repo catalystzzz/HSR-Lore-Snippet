@@ -4,6 +4,6 @@ Un Imagenae ha partecipato ai [[phantasmoon games]] ed è stato battuto da himek
 
 ![[Screenshot 2026-02-22 234329.png]]
 
-Gli [[imagenae]] possono partecipare ai phantasmoon games
+Gli [[Keywords/imagenae]] possono partecipare ai phantasmoon games
 
 [[Graphia Academy]]

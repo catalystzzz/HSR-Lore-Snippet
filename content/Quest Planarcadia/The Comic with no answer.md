@@ -21,7 +21,7 @@ Insieme alle note dell'autore disegnate da Chairsky (l'autrice del fumetto)
 
 ![[image-212.png]]
 
-Praticamente sono degli imaginae irregolari non approvati dal dipartimento nati per via della confluenza della wishpower per via dei [[phantasmoon games]] [[imagenae]] ed oltre a quello sembra che anche l'assassino vexis sia stato portato in questo mondo.
+Praticamente sono degli imagenae irregolari non approvati dal dipartimento nati per via della confluenza della wishpower per via dei [[phantasmoon games]] [[Keywords/imagenae]] ed oltre a quello sembra che anche l'assassino vexis sia stato portato in questo mondo.
 
 ![[image-213.png]]
 
@@ -59,7 +59,7 @@ per via del successo del fumetto visto che stava per finire.
 
 ![[image-224.png]]
 
-A quanto pare, Mercator ci dice che Chairsky è morta esattamente il giorno in cui Vexis è nata come aberrazione imaginae, e che per vivere in pace vexis la ha eliminata, ed ha confessato.
+A quanto pare, Mercator ci dice che Chairsky è morta esattamente il giorno in cui Vexis è nata come aberrazione imagenae, e che per vivere in pace vexis la ha eliminata, ed ha confessato.
 
 ![[image-225.png]]
 Mercator ha un'abilità che gli permette di salvare tutte le info nella sua testa ed analizzare nella sua "Mind gallery".

@@ -6,7 +6,7 @@ Nel Video di CatWithBlueHat https://youtu.be/QKYjjPNwV6A?si=L5UIqOvpVBiFgXxe, la
 ![[image-248.png]]
 ![[does-anyone-have-the-planarcadian-alphabet-translated-v0-h71hvfj0g9mg1.webp]]
 
-Sembra che, la stanza legata all'art dell'imaginesis, la tecnica passa di generazione in generazione da [[Graphia Family]] per la creazione degli [[imagenae]] dove Dollie insegna, abbia una specie di cerchio formato da equazioni, portandoci ancora una volta ad associare quello che sembra il potere dell'elation a in realtà quella che noi chiamiamo formule base della "Cinematica", ramo della meccanica classica che descrive il moto dei corpi in funzione del tempo, analizzandone posizione, velocità ed accelerazione senza indagarne le cause.
+Sembra che, la stanza legata all'art dell'imaginesis, la tecnica passa di generazione in generazione da [[Graphia Family]] per la creazione degli [[Keywords/imagenae]] dove Dollie insegna, abbia una specie di cerchio formato da equazioni, portandoci ancora una volta ad associare quello che sembra il potere dell'elation a in realtà quella che noi chiamiamo formule base della "Cinematica", ramo della meccanica classica che descrive il moto dei corpi in funzione del tempo, analizzandone posizione, velocità ed accelerazione senza indagarne le cause.
 
 - Energia Potenziale di un corpo (B DX)
 - Equazione di Energia del moto (A DX) / Energia Cinetica

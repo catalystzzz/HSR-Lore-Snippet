@@ -1,4 +1,4 @@
-[[imagenae]]
+[[Keywords/imagenae]]
 [[Kraken]]
 [[Kuchiba]]
 [[Imagenae 101]]
@@ -46,7 +46,7 @@ Siccome non ne veniamo a capo, si va da Ashveil
 
 Incontriamo ashveil che ci porta da una sua conoscenza, intanto Joye perde sempre più "colorito" e la sua stessa esistenza.
 La conoscenza di ashveil ci dice che:
-- Non ha senso che questo  killer lo faccia per business perchè le parti di imaginae utili non sono quelle rubate da lui, ne tantomeno per wishpower da vendere visto che comunque non sarebbe così tanta ed i soldi sarebbero pochissimi
+- Non ha senso che questo  killer lo faccia per business perchè le parti di imagenae utili non sono quelle rubate da lui, ne tantomeno per wishpower da vendere visto che comunque non sarebbe così tanta ed i soldi sarebbero pochissimi
 
 ![[image-192.png]]
 
@@ -57,7 +57,7 @@ L'altra conoscenza di Ashveil (una "futura superstar") nota che nella lista dell
 ![[Screenshot 2026-02-28 223045.png]]
 Dall'ultima conoscenza scopriamo che l'orca che ammirava, una delle vittime, dopo 1 mese di "allenamento spirituale" tornò con orecchie da gatta, esattamente ciò che le è stato rubato.
 Joye prima di addormentarsi ci dice che i suoi occhi erano il risultato di una chirurgia plastica:
-- Il killer sta togliendo le parti applicate agli imaginae tramite "chirurgia"
+- Il killer sta togliendo le parti applicate agli imagenae tramite "chirurgia"
 
 Sparkle entra in detective mode, ashveil non capisce 1 cazz e pensiamo che il chirurgo sia l'assassino perchè vuole raccogliere parti del corpo di persone famose e mettersele addosso per qualche lunatico motivo, ed è lui stesso che le ha messe ed è per quello che tutte le superstar lo invitavano a casa senza problemi e senza dire nulla a nessuno.
 
