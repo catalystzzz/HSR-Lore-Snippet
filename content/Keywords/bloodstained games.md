@@ -1,0 +1,5 @@
+[[academy supernatural stories]]
+[[Clipping of the Herald of Death Incident]]
+[[Fulwish Medical Record]]
+[[Ryusuke]]
+[[Himeko]]
