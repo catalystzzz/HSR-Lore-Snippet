@@ -16,3 +16,4 @@ Sembra che, la stanza legata all'art dell'imaginesis, la tecnica passa di genera
 
 [[Energia di un corpo]]
 
+Tutto questo viene probabilmente utilizzato per la fase di Canalizzazione della [[wishpower]] che vediamo in [[Painting Class Notes]]

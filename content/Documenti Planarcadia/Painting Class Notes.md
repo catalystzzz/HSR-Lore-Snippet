@@ -10,7 +10,7 @@ Mentre, quando canalizzata da un artista, a prescindere dalla quantità verrà c
 Step dell'imagenesis:
 ![[image-287.png]]
 
-- Funneling: canalizzare la wishpower. Il volume di wishpower canalizzata non impatta sulla scala finale dell'imagenesis.
+- Funneling: canalizzare la wishpower. Il volume di wishpower canalizzata non impatta sulla scala finale dell'imagenesis. [[La Fisica viene associata al potere di Aha tramite la pseudoscienza]]
 
 ![[image-288.png]]
 

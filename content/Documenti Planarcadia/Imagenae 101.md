@@ -2,7 +2,7 @@
 
 Forme di vita intelligenti guidate da un Core Interno, alimentato da Wishpower proveniente dalla Phantasmoon e dai cuori degli umani, con corpi composti da materia discreta (atomi e particelle)
 
-Apparenza e Lore viene decisa dagli artisti che li creano o/e dai trend dell'era.
+Apparenza e Lore viene decisa dagli artisti che li creano o/e dai trend dell'era. [[Painting Class Notes]]
 
 ![[image-31.png]]
 
@@ -12,8 +12,8 @@ Questi core si possono formare naturalmente in ambienti ricchi di Energia o wish
 
 ![[image-32.png]]
 
-Graphia ha inventato e condiviso il modo per crearli artificialmente.
-Siccome serve un bel pò di wishpower per far partire un [[Keywords/imagenae]] serve il permesso per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
+Graphia ha inventato e condiviso il modo per crearli artificialmente. [[Informazioni sugli Imagenae]]
+Siccome serve un bel pò di wishpower per far partire un [[imagenae]] serve il permesso per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
 
 Il core una volta creato diventa un ammasso di materia condensata simile alla struttura interna di un imagenae (originale). Il motore "core" alimentato dai poteri del path della phantasmoon è quello che tiene insieme la materia. Quindi un imagenae è già un pathstrider fin dalla nascita.
 
@@ -31,7 +31,7 @@ Quindi tutti gli imagenae sono masse di materia tenute in piedi da un core e gui
 ![[image-34.png]]
 
 da dove viene tutta la materia che forma il corpo di un imagenae? alcuni speculano 2 teorie:
-- Path Space Theory: la material viene presa dal path dell'elation alla nascita e ridata indietro alla morte.
+- Path Space Theory: la materia viene presa dal path dell'elation alla nascita e ridata indietro alla morte.
 - Discrete Matter Theory: i core assimilano la materia dai dintorni
 
 Altri pensano che la materia venga convertita dall'energia direttamente dalla wishpower.

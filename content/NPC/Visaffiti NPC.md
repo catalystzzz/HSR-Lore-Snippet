@@ -26,3 +26,5 @@ Significato dato a questo Imagenae
 Gli hanno dato il nome prendendo spunto dai Viscorpi
 
 
+![[image-326.png]]
+Gli imagenae al momento della morte si trasformano in Pixel o macchie di vernice

@@ -1,5 +1,5 @@
 ![[image-54.png]]
-
+[[Cindearth Age]]: Era in cui [[benzaitengoku]] viene invasa dall'antimatter legion.
 Gli escapist che sono riusciti a salvarsi dall'invasione dell'antimatter legion riuscirono ad arrivare nel 2155AE in New Londinium, pianeta industriale dell'IPC, dove spiegarono la situazione di Planarcadia al governo locale, che fece nascere interesse al Marketing Development Department.
 1 AE dopo, sotto gli ordini di oswaldo schneider, l'IPC arriva a planarcadia salvandola dal dipinto grazie alla Aether Editing Tecnology degli hacker di punklord
 

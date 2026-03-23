@@ -1,6 +1,6 @@
 ![[image-45.png]]
 
-Nel 2148 AE anti matter legion è arrivata nella [[Consternation Starzone]] in cui c'era anche l'antica Benzaitengoku.
+Nel 2148 AE anti matter legion è arrivata nella [[Consternation Starzone]] in cui c'era anche l'antica Benzaitengoku. Questa fu la [[Cindearth Age]] per Benzaitengoku.
 
 Nel giro di 1 notte il popolo vide delle strutture imponenti da cui uscirono dei "demoni".
 
@@ -20,6 +20,6 @@ Ma quello che successe veramente fu Graphia che con i [[phantasmoon games]] rius
 
 ![[image-48.png]]
 
-Si interrompe così la Cindearth Age ed inizia la Canvas Age di planarcadia.
+Si interrompe così la Cindearth Age ed inizia la [[Canvas Age]] di planarcadia.
 [[planarcadia]] 
 

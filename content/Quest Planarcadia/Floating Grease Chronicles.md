@@ -65,4 +65,4 @@ La Storia era decaduta, ed il linguaggio più squisito doveva ancora nascere.
 
 
 
-<mark style="background: #FFF3A3A6;">"Era dei Leviatani" </mark>-> Lacrima di Aha -> <mark style="background: #ABF7F7A6;">Benzaitengoku/Ahatopia</mark> -> Invasione dell'antimatter Legion -> <mark style="background: #FF5582A6;">Graphia Miracle Canvas Age</mark> -> "Il recupero" dell'IPC -> <mark style="background: #BBFABBA6;">Planarcadia</mark> 
+<mark style="background: #FFF3A3A6;">"Era dei Leviatani" </mark>-> Lacrima di Aha -> <mark style="background: #ABF7F7A6;">Benzaitengoku/Ahatopia</mark> [[benzaitengoku]] -> Invasione dell'antimatter Legion [[Cindearth Age]]-> <mark style="background: #FF5582A6;">Graphia Miracle Canvas Age</mark> [[Canvas Age]]-> "Il recupero" dell'IPC -> <mark style="background: #BBFABBA6;">Planarcadia</mark> [[planarcadia]] 
