@@ -7,3 +7,7 @@ Un Imagenae ha partecipato ai [[phantasmoon games]] ed è stato battuto da himek
 Gli [[Keywords/imagenae]] possono partecipare ai phantasmoon games
 
 [[Graphia Academy]]
+
+Nel documento [[Bloodstained Games Archives]] scopriamo che questo Imagenae sta dicendo balle ![[image-349.png]]
+
+e che ha sempre e solo finto di essere uno dei supplicant

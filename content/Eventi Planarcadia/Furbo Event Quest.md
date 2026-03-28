@@ -21,7 +21,7 @@ Nuovo Skott KEK
 
 ![[image-89.png]]
 
-Chiamiamo la originale (nihilux) al telefono per chiedergli info
+Chiamiamo la originale [[nihilux]] al telefono per chiedergli info (Blurry_QR_Colt)
 
 ![[image-90.png]]
 
