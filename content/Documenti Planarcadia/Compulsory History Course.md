@@ -11,7 +11,7 @@ Inoltre, gli hacker di puncklorde hanno sfruttato le nuove conoscenze sugli imag
 
 ![[image-56.png]]
 
-CEO viene scelto direttamente dall'IPC e non tramite i phantasmoon games. il primo fu Maxwell Grant del marketing development deparment, e poi nel giro di 2 amber era è passato allo strategic investment department.
+CEO viene scelto direttamente dall'IPC e non tramite i phantasmoon games. il primo fu [[Maxwell Grant]] del marketing development deparment, e poi nel giro di 2 amber era è passato allo strategic investment department.
 
 Il CEO è responsabile di controllare lo sviluppo di planarcadia, eseguire le direttamente dell'ipc ed usare l'industria dell'intrattenimento per far rinascere la civiltà con l'obiettivo di generare valore economico per l'ipc ed avanza l'elation della gente e la preservation dell'universo.
 
