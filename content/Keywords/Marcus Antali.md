@@ -23,6 +23,7 @@ Confermando la sua struttura ------------, Fibrosa, e le appendici simili a coro
 Tutto il footage delle telecamere vicino alla sua residenza sono state eliminate tramite protocolli pogrammato.
 Ammette che non c'era stata una preparazione adeguata alle emergenze ma NEGA connessioni a Marcus Antali.
 
+
 ![[image-375.png]]
 
 Hanno recuperato Marcus, eliminato e l'obiettivo d'ora in poi era evitare ulteriori pericoli:

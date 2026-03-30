@@ -59,15 +59,4 @@ Inizialmente dice di non fare altre domande sul perché, e poi dice che è l'ann
 
 ![[image-244.png]]
 
-
-Quindi, conclusioni momentanee (4.0):
-- Ryusuke è potenzialmente un fantasma, tra l'altro, c'è un documento [[Summereve's Letter]] dove una studentessa ha disegnato 1 altro studente e sembra che l'abbia fatto "comparire a scuola", non escluderei che possa essere successa la stessa cosa
-- Ryusuke è un'altro tipo di entità che ancora non conosciamo
-- Ryusuke è quello reale ma tornato dal suo viaggio
-- Il Seadrake trolla e Ryusuke è effettivamente il preside ed Himeko non è reale (improbabile)
-- Non sappiamo quanti e chi sia sopravvissuto nella scuola del 22 luglio al di fuori di Himeko e Fulwish, ma è MOLTO PROBABILE che Fulwish sappia la verità essendo una sopravvissuta [[Fulwish Medical Record]] e non solo, sicuramente anche [[L'IPC]] dovrebbe saperlo visto che hanno completamente censurato le informazioni per 10 anni
-
-
-Sempre in merito al 1° Punto:
-![[image-245.png]]
-è anche vero che seguendo lo stesso ragionamento, anche himeko potrebbe essere stata ricreata tramite l'evocazione imagenae visto che ci sono sue "statue" nella scuola, non esclude assolutamente la possibilità che sia stata creata un "himeko" tramite l'imaginesis [[Imagenae 101]]
+[[Ryusuke's Work Appreciation]]
