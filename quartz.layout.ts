@@ -26,7 +26,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
     Component.RecentNotes({ 
     title: "Ultimi aggiornamenti", 
-    limit: 10 
+    limit: 10,
+    showTags: true,
+    linkToMore: "tags/" 
   }),
   ],
   left: [
