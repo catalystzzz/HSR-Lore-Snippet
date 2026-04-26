@@ -9,3 +9,14 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+# Escludi la cartella di configurazione di Obsidian
+.obsidian/
+
+# Escludi le dipendenze e i file di build di Quartz
+node_modules/
+public/
+.quartz-cache/
+
+# IMPORTANTE: Se Quartz è dentro il Vault, evita che Git carichi 
+# la cartella quartz come se fosse parte delle note
+quartz/
