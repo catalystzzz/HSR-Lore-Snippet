@@ -1,3 +1,0 @@
-[[Kraken]]
-[[Imagenae]]
-[[Cabina Telefonica]]

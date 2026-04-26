@@ -1,1 +1,0 @@
-[[L'IPC]] [[Yabuli]] [[Marcus Antali]] 

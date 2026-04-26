@@ -1,2 +1,0 @@
-[[Fulwish TV]]
-[[Peppy quest]]

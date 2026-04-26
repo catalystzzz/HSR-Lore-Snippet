@@ -1,6 +1,0 @@
-[[In Memory of an Old Friend]]
-[[Graphia Family]]
-[[Graphia]]
-[[roan]]
-[[Ryusuke]]
-[[Himeko]]

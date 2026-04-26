@@ -1,1 +1,0 @@
-[[Quadri di Planarcadia]]

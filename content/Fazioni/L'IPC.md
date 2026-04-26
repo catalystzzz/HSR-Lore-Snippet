@@ -1,6 +1,0 @@
-[[Compulsory History Course]]
-[[Compulsory History Course 2]]
-[[Fulwish Person of The Year in Elation]]
-[[Imagenist Management Regulations]]
-[[The Vanishing Giant]]
-[[Imagenae 101]]

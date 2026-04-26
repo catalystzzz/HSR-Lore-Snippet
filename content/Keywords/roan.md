@@ -1,1 +1,0 @@
-Madre di Himeko, discendente di Graphia, figlia del preside della [[Graphia Academy]] quando ryusuke era giovane.

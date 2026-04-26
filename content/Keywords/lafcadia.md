@@ -1,2 +1,0 @@
-[[Consternation Starzone]]
-[[Idrila]]
