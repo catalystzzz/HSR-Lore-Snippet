@@ -24,6 +24,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.RecentNotes({ 
+    title: "Ultimi aggiornamenti", 
+    limit: 10 
+  }),
   ],
   left: [
     Component.PageTitle(),
@@ -38,7 +42,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  sort(a, b) {
+    return b.file.dates.modified - a.file.dates.modified
+  }
+}),
   ],
   right: [
     Component.Graph(),
