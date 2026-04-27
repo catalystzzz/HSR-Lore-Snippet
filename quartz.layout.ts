@@ -24,11 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.RecentNotes({ 
-    title: "Ultimi aggiornamenti", 
-    limit: 10,
-    showTags: true,
-  }),
   ],
   left: [
     Component.PageTitle(),
@@ -53,6 +48,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+  ],
+  afterBody: [
+    Component.OnlyFor({
+      titles: ["index"], // Questo dice a Quartz di caricarlo solo sulla index.md
+      component: Component.RecentNotes({
+        title: "Ultimi Aggiornamenti",
+        limit: 20,
+      }),
+    }),
   ],
 }
 
