@@ -28,7 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
     title: "Ultimi aggiornamenti", 
     limit: 10,
     showTags: true,
-    linkToMore: "tags/" 
   }),
   ],
   left: [
