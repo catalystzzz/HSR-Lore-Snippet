@@ -49,15 +49,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-  afterBody: [
-    Component.OnlyFor({
-      titles: ["index"], // Questo dice a Quartz di caricarlo solo sulla index.md
-      component: Component.RecentNotes({
-        title: "Ultimi Aggiornamenti",
-        limit: 20,
-      }),
-    }),
-  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
