@@ -1,1 +1,1 @@
-[[L'IPC]] [[Yabuli]] [[Marcus Antali]] 
+[[IPC]] [[Yabuli]] [[Marcus Antali]] 

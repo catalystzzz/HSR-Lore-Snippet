@@ -8,7 +8,7 @@ Questo ha portato alla loro creazione ed ad una loro repubblica "Orch Republic" 
 
 ![[image-103.png]]
 
-I Ploos (le papere) sono nate da un'incidente di una nave che ne ha fatte cadere milioni nei corsi d'acqua di tutta ahatopia rendendole famose. Ci sono anche altri avvenimenti legati a scenziati o masked fool che avevano a che fare con le papere nella vasca da bagno, visto che quelle di gomma facevano un suono "ploo"
+I [[Ploo]] (le papere) sono nate da un'incidente di una nave che ne ha fatte cadere milioni nei corsi d'acqua di tutta ahatopia rendendole famose. Ci sono anche altri avvenimenti legati a scenziati o masked fool che avevano a che fare con le papere nella vasca da bagno, visto che quelle di gomma facevano un suono "ploo"
 
 ![[image-104.png]]
 

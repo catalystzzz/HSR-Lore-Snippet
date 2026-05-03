@@ -1,2 +1,2 @@
 [[IL CHEAT DELL'IPC]]
-[[L'IPC]]
+[[IPC]]

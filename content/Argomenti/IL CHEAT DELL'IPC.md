@@ -1,7 +1,7 @@
 
 ![[image-328.png]]
 
-Sembra che [[L'IPC]] abbia trovato il modo di generare "Molti Imagenae" ma senza dire come.
+Sembra che [[IPC]] abbia trovato il modo di generare "Molti Imagenae" ma senza dire come.
 Abbiamo visto che la maggiorparte di questi sono frutto di una produzione in serie di "Mechatron" che poi vediamo durante la quest:
 
 ![[image-329.png]]

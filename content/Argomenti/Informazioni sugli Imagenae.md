@@ -73,7 +73,7 @@ Questi core si possono formare naturalmente in ambienti ricchi di Energia o wish
 
 Graphia ha inventato e condiviso il modo per crearli artificialmente: L'art of Imagenesis.
 
-Siccome serve un bel pò di wishpower per far partire un [[imagenae]] serve il permesso - [[L'IPC]] e [[Department of Aberration Defense]] - per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
+Siccome serve un bel pò di wishpower per far partire un [[imagenae]] serve il permesso - [[IPC]] e [[Department of Aberration Defense]] - per poter creare nuovi core e dar vita a nuovi imagenae. Un nuovo core si forma iniettando un pezzo d'arte con wishpower, a patto che sia abbastanza per il senso e la forma di questo.
 
 Il core una volta creato diventa un ammasso di materia condensata simile alla struttura interna di un imagenae naturale. Il motore "core" alimentato dai poteri del path della phantasmoon è quello che tiene insieme la materia. Quindi un imagenae è già un pathstrider fin dalla nascita.
 

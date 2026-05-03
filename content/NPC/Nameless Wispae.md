@@ -15,3 +15,6 @@ Questo tizio dietro di me potrebbe effettivamente avere delle prospettive in mer
 
 ![[image-561.png]]
 
+![[image-624.png]]
+
+![[image-642.png]]

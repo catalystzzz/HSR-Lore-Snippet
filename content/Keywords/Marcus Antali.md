@@ -1,4 +1,4 @@
-[[L'IPC]] [[Intelligentsia Guild]] [[School of evolutionary perfection]] [[bloodstained games]] [[Herald of Death]]
+[[IPC]] [[Intelligentsia Guild]] [[School of evolutionary perfection]] [[bloodstained games]] [[Herald of Death]]
 
 ![[image-370.png]]
 

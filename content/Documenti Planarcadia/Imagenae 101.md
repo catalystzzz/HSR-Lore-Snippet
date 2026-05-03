@@ -17,7 +17,7 @@ Siccome serve un bel pò di wishpower per far partire un [[imagenae]] serve il p
 
 Il core una volta creato diventa un ammasso di materia condensata simile alla struttura interna di un imagenae (originale). Il motore "core" alimentato dai poteri del path della phantasmoon è quello che tiene insieme la materia. Quindi un imagenae è già un pathstrider fin dalla nascita.
 
-In qualche modo [[L'IPC]] è riuscita a bypassare i requisiti per la generazione dei core, e non si sa come. [[Visaffiti NPC]]
+In qualche modo [[IPC]] è riuscita a bypassare i requisiti per la generazione dei core, e non si sa come. [[Visaffiti NPC]]
 ![[image-272.png]]
 
 ![[image-273.png]]

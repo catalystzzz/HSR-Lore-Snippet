@@ -1,4 +1,4 @@
-[[L'IPC]]
+[[IPC]]
 [[Technology Department]]
 [[Marcus Antali]]
 

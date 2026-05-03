@@ -1,4 +1,4 @@
-Diparimento del [[L'IPC]] responsabile di portare i mondi all'interno dell'influenza commerciale dell'IPC e di Qlipoth, comandata dal P47 [[Oswaldo Schneider]]
+Diparimento del [[IPC]] responsabile di portare i mondi all'interno dell'influenza commerciale dell'IPC e di Qlipoth, comandata dal P47 [[Oswaldo Schneider]]
 
 Ne fanno anche parte:
 - Skott (RIP)

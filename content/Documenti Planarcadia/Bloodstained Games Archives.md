@@ -27,7 +27,7 @@ Parla dell'incidente dell [[Herald of Death]], sembra che maggiorparte dei Suppl
 
 ![[image-352.png]]
 
-e che alla fine ci sono riusciti grazie anche all'aiuto dell' [[L'IPC]] che forse si è presa più crediti del dovuto.
+e che alla fine ci sono riusciti grazie anche all'aiuto dell' [[IPC]] che forse si è presa più crediti del dovuto.
 
 ![[image-353.png]]
 

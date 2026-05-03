@@ -1,6 +1,6 @@
 
 ![[image-315.png]]
-è possibile che [[Pearl]] abbia "USATO" per "creare" gli [[Keywords/imagenae]] dell [[L'IPC]] l'[[aether cartridge]] di ZERO?
+è possibile che [[Pearl]] abbia "USATO" per "creare" gli [[Keywords/imagenae]] dell [[IPC]] l'[[aether cartridge]] di ZERO?
 
 o comunque sicuramente per le Aetherium Wars.
 

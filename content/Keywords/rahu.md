@@ -2,7 +2,7 @@ Devourer of World, un ex pianeta morto riportato in vita da [[Shuhu]], emanator 
 
 ![[image-253.png]]
 
-[[L'IPC]] ha una taglia sui "resti?" del pianeta.
+[[IPC]] ha una taglia sui "resti?" del pianeta.
 
 ![[image-256.png]]
 
