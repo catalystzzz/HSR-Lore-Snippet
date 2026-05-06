@@ -27,3 +27,25 @@ visto che il mondo ha troppe lacrime,
 e ciò che scarseggia è la vera ricchezza.
 In quegli anni senza luna,
 il cielo stellato riflette i sorrisi astuti delle volpi.
+
+
+Capitolo 7 (Fox):
+![[image-652.png]]
+
+Semafori Lampeggiano e Volano,
+i Segnali sono sommersi nel Caos.
+La volpe si agita, la crisi finanziaria è vicina.
+
+Liberatevi dei vostri pesi, diventeranno una leva terrificante
+Salite sul palco dorato, il giorno di saccheggiare le profondità si avvicina.
+
+Villaggi del sud inzuppati in una pioggia infinita,
+Piume di corvo decorano la legione nera come la pece.
+La volpe si agita, la guerra di Cindearth è vicina [[Cindearth Age]]
+
+Liberatevi della vostra fragilità,
+attirerà solo bombe guidate.
+Salite sul palco di [[Graphia]], il giorno del grande insediamento si avvicina.
+
+I lamenti funebri si stancano dell'universo. La saggezza desidera Arcadia.
+

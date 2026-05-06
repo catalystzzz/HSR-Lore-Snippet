@@ -1,5 +1,7 @@
 [[Floating Grease Chronicles]]
 
+Capitolo 1 (Rane):
+
 ![[Screenshot 2026-03-03 163542.png]]
 ![[Screenshot 2026-03-03 163546.png]]
 
@@ -21,4 +23,29 @@ Il tempo così passò, mentre le rane veloci vivevano felici ogni giorno.
 Ma si abituarono sempre di più al fango, tendendo agguati alle loro prede nell'oscurità, gracchiando in gruppo nelle notti di primavera e venendo derise, persino dai loro simili.
 
 
+Capitolo 3 (Rane):
+![[image-653.png]]
 
+Le rane periscono nella salamoia e sotto il sole cocente.
+I loro sogni non sono altro che l'eternità delle bolle.
+Un campo di difficoltà non è mai desiderato
+Le grida degli umili fanno echo nel mercato.
+
+La rana primordiale si è trasformata in pietra.
+Fingendo eleganza, contempla l'oceano dalla riva.
+Il volto di marmo, corrotto dalla pioggia
+quanto basta per ascendere nelle sale dell'arte.
+
+L'arena ruggisce di suoni
+le lodi più grandi appartengono alla folla
+Sopra di loro, l'aria preme pesante.
+Inni ai fluidi eterei che scolpiscono nuove forme.
+L'esultanza di un veleno
+una pergamena di cuoio in decomposizione.
+
+Magma rappreso
+La luna ghiacciata
+La nausea mattutina dell'elite
+la fede mortale della feccia
+
+Le rane NON periscono nella salamoia e sotto il sole cocente
