@@ -31,3 +31,21 @@ l'importante è che le troviamo prima del World Destroyer, o parla di [[rahu]] o
 ![[Screenshot 2026-03-09 132426.png]]
 
 The Wheel of Time = Destroyer of Worlds -> il tempo 
+
+--------------------------------------
+
+[[furbobocom]] quest patch 4.2 A-Doors
+
+![[Screenshot 2026-05-08 171502.png]]
+
+![[Screenshot 2026-05-08 171621.png]]
+
+Joolyon [[furbo]] trova una A-Door fuori dall'ufficio che collega alla [[pearlux tower]]
+
+![[image-697.png]]
+
+La 2° A-Door porta letteralmente a [[Belobog]]
+
+![[image-698.png]]
+
+La terza porta ci porta a Seafeld TV e c'è un tipo che vuole farsi pagare per averla usata
