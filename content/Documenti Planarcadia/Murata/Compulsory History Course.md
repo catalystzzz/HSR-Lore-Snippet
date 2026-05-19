@@ -7,7 +7,7 @@ Gli escapist che sono riusciti a salvarsi dall'invasione dell'antimatter legion 
 
 facendo tornare gli abitanti di planarcadia sotto la protezione di Aha e Qlipoth.
 
-Inoltre, gli hacker di puncklorde hanno sfruttato le nuove conoscenze sugli imagenae per far nascere nuove tecnologie come gli aether spirits.
+Inoltre, gli hacker di punklorde hanno sfruttato le nuove conoscenze sugli imagenae per far nascere nuove tecnologie come gli aether spirits.
 
 ![[image-56.png]]
 
