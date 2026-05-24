@@ -1,2 +1,2 @@
-[[lafcadia]]
+[[lafcadio]]
 [[Consternation Starzone]]
