@@ -14,7 +14,8 @@ L'acquisizione di Wishpower dei [[Supplicant]] è simile alla fede negli Aeons
 Oltre ai [[Phantasmoon Games]] ci sono diverse altre [[Cerimonie dell'Elation]]
 come:
 - Devil Hunt (Vonwacq)
-- Eternal race (Twin-Sided Planet)
+- Eternal race (Twin-Sided Planet) [[Eternal Sprint]]
+
 
 ![[Screenshot 2026-03-31 235853.png]]
 
