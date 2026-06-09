@@ -6,3 +6,9 @@ Fear me, fiends from beyond. When you lay eyes on me, your fate is already seale
 ----------------
 
 Un [[aberration]] nata dall'imagenesis provoca l'esercito dell'antimatter legion durante la [[Cindearth Age]] minacciandoli. Questo è un titano di ghiaccio e gelo, col potere di congelare mondi e molte altre cose.
+
+![[Screenshot 2026-06-01 174620.png]]
+
+![[Screenshot 2026-06-01 174714.png]]
+
+perdendo wishpower è diventato così
