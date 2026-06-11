@@ -10,3 +10,6 @@
 
 --> Prima linea di teoria --> Furbo: AHA/ELATION, Nihilux: MYTHUS/ENIGMATA/REMEMBRANCE
 --> Nihilux ha "2 Account" e fa cambiare il suo aspetto dai Furbo
+
+![[image-768.png]]
+

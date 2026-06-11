@@ -18,3 +18,8 @@ Questo tizio dietro di me potrebbe effettivamente avere delle prospettive in mer
 ![[image-624.png]]
 
 ![[image-642.png]]
+
+
+![[image-729.png]]
+
+Questo Wispae dice che i [[mourning actors]] non esistono

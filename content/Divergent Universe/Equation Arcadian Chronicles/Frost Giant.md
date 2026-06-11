@@ -11,4 +11,4 @@ Un [[aberration]] nata dall'imagenesis provoca l'esercito dell'antimatter legion
 
 ![[Screenshot 2026-06-01 174714.png]]
 
-perdendo wishpower è diventato così
+perdendo wishpower è diventato così [[casper]]
