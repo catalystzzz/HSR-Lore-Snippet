@@ -12,3 +12,15 @@ Un [[aberration]] nata dall'imagenesis provoca l'esercito dell'antimatter legion
 ![[Screenshot 2026-06-01 174714.png]]
 
 perdendo wishpower è diventato così [[casper]]
+
+![[image-770.png]]
+Lo conferma parlandogli
+
+![[image-771.png]]
+
+Probabilmente parla di altri Imagenae in questo caso che hanno partecipato alla guerra:
+- Amico con ali enormi che possono coprire la luna
+
+![[image-772.png]]
+
+- Calore radiante dalla testa

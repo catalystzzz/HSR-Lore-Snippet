@@ -1,6 +1,6 @@
 [[Floating Grease Chronicles]]
 
-Capitolo 1 (Rane):
+##### Capitolo 1 (Rane):
 
 ![[Screenshot 2026-03-03 163542.png]]
 ![[Screenshot 2026-03-03 163546.png]]
@@ -23,7 +23,7 @@ Il tempo così passò, mentre le rane veloci vivevano felici ogni giorno.
 Ma si abituarono sempre di più al fango, tendendo agguati alle loro prede nell'oscurità, gracchiando in gruppo nelle notti di primavera e venendo derise, persino dai loro simili.
 
 
-Capitolo 3 (Rane):
+##### Capitolo 3 (Rane):
 ![[image-653.png]]
 
 Le rane periscono nella salamoia e sotto il sole cocente.
@@ -49,3 +49,36 @@ La nausea mattutina dell'elite
 la fede mortale della feccia
 
 Le rane NON periscono nella salamoia e sotto il sole cocente
+
+
+##### Capitolo 6 (Rane):
+
+![[image-784.png]]
+
+![[image-785.png]]
+
+I ricordi delle rane non sono i loro
+Hanno origine nell'abisso
+A quel tempo tutto cominciava a prendere forma
+consumando il calendario lunare
+
+Il cielo scarabocchia e disegna
+L'oceano macchia e cancella, creando cicli tediosi
+evocando significati inesistenti
+
+Grasso galleggiante nei camini,
+zolfo e potere del ferro venduti all'ingrosso
+Gare di code mozzate, 
+corpi celesti autodigestivi
+
+Il cieco registra la "luce"
+macchinari maledetti di "produzione di massa"
+Ricordi inesistenti provenienti dall'abisso,
+tutto così capovolto
+tutto così distaccato
+
+Le rane cantano a squarciagola, 
+lodando il tradimento più fedele
+adorando la divinità più vergognosa.
+
+
