@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/FOX.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FOX"
+              "title": "index"
             }
           }
         ]
@@ -330,6 +330,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Apri selettore rapido": false,
       "daily-notes:Apri nota giornaliera": false,
       "graph:Apri vista grafo": false,
@@ -344,6 +345,9 @@
   },
   "active": "d7d996f008ac5091",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "index.md",
+    "Keywords/FOX.md",
     "Divergent Universe/Moonlit Tales/Do Aeons Weep for Reflections 11.md",
     "Divergent Universe/Moonlit Tales/Do Aeons Weep for Us 12.md",
     "Divergent Universe/Moonlit Tales/Do Aeons Weep for Destiny 9.md",
@@ -368,7 +372,6 @@
     "Divergent Universe/Moonlit Tales/Do Aeons Weep for Mundanity 4.md",
     "Documenti Planarcadia/Murata/Compulsory History Course.md",
     "Keywords/FROG.md",
-    "Keywords/FOX.md",
     "Keywords/RABBIT.md",
     "Keywords/Maxwell Grant.md",
     "Argomenti/Marketing Development Department.md",
@@ -378,7 +381,6 @@
     "NPC/Asat Pramad.md",
     "Keywords/himeko nova.md",
     "Keywords/Informazioni su Astropolis.md",
-    "Keywords/astropolis.md",
     "example/browser-module",
     "example",
     "Divergent Universe/Equation Arcadian Chronicles",
