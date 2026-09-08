@@ -1,0 +1,393 @@
+{
+  "main": {
+    "id": "6a24deb8f10fdcd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "35243bdd1a86075f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d996f008ac5091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keywords/FOX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FOX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6afc463e2efd1d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e029e86dccb1451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075d889f9b26e0f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "202be6bb290121fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "cb694793b06ca9ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "961cb11989ea1270",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9468c2c1ba9b44d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1889c677828f0fb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2197afe4fef4551f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "40593a937357d70a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82a095a4e60ea24a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e094a2ebe381331e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3ae5098b2ebd1da6",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "a23897a5e38e6e77",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "eaf900e139692ae4",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "63124b4050eeaa3f",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "6abd219a5261c4bc",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "86f40fe809bbb4d7",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "030a65676e8637e9",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "992006bb91797499",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "en",
+                "translation_service": "google_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lucide-ghost",
+              "title": "translator-view"
+            }
+          },
+          {
+            "id": "51ca254a774c9403",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "af9890687a35043c",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "auto",
+                "language_to": "en",
+                "translation_service": "google_translate",
+                "auto_translate": false,
+                "apply_glossary": false,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "lucide-ghost",
+              "title": "translator-view"
+            }
+          },
+          {
+            "id": "2483a266554399a1",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "translate:Open translation view": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "d7d996f008ac5091",
+  "lastOpenFiles": [
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Reflections 11.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Us 12.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Destiny 9.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Debauchery 10.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Time 3.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Meaninglessness 2.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Misfortune 1.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for THEIR Creations 8.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for THEIR Lives 7.md",
+    "Immagini/image-860.png",
+    "Immagini/image-859.png",
+    "Immagini/image-858.png",
+    "Immagini/image-857.png",
+    "Immagini/image-856.png",
+    "Immagini/image-855.png",
+    "Immagini/image-854.png",
+    "Immagini/image-853.png",
+    "Immagini/image-852.png",
+    "Immagini/image-851.png",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Nostalgia 5.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for THEMSELF 6.md",
+    "Divergent Universe/Moonlit Tales/Do Aeons Weep for Mundanity 4.md",
+    "Documenti Planarcadia/Murata/Compulsory History Course.md",
+    "Keywords/FROG.md",
+    "Keywords/FOX.md",
+    "Keywords/RABBIT.md",
+    "Keywords/Maxwell Grant.md",
+    "Argomenti/Marketing Development Department.md",
+    "Documenti Planarcadia/Wishpower Recovery Insights.md",
+    "Keywords/Silhoumont.md",
+    "Quest Planarcadia/Floating Grease Chronicles.md",
+    "NPC/Asat Pramad.md",
+    "Keywords/himeko nova.md",
+    "Keywords/Informazioni su Astropolis.md",
+    "Keywords/astropolis.md",
+    "example/browser-module",
+    "example",
+    "Divergent Universe/Equation Arcadian Chronicles",
+    "Documenti Planarcadia/Murata",
+    "quartz/quartz/util/trace.ts",
+    "quartz/quartz/util/theme.ts",
+    "quartz/quartz/util/sourcemap.ts",
+    "quartz/quartz/util/resources.tsx",
+    "quartz/quartz/util/perf.ts",
+    "quartz/quartz/util/random.ts"
+  ]
+}

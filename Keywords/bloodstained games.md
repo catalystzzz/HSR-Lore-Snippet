@@ -1,0 +1,17 @@
+[[academy supernatural stories]]
+[[Clipping of the Herald of Death Incident]]
+[[Fulwish Medical Record]]
+[[Ryusuke]]
+[[Himeko]]
+[[Bloodstained Games Archives]]
+[[phantasmoon games]]
+
+Partecipanti dei Giochi:
+[[Herald of Death]]
+[[Himeko]] 
+[[Hahaharbeck]]
+[[Black Birch]]
+[[Gardener]]
+[[Physical Magical Girl]]
+[[Carter Pissarro]]
+[[Armstrong]]
